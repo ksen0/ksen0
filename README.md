@@ -1,4 +1,14 @@
-## Hi there 👋
+## hi
+
+_none of the below links are my own work, they are references/ideas._
+
+* [algorithm =/= code](https://www.moma.org/collection/works/127553?artist_id=5403&page=1&sov_referrer=artist)
+* [code =/= text](https://en.wikipedia.org/wiki/Punched_card)
+* [legibility + durability](https://logicmag.io/care/built-to-last/)
+* [critical technical practice](https://pages.gseis.ucla.edu/faculty/agre/critical.html)
+* [ultimate waste](https://recyclism.com/coresamples.html)
+* avatar credit: [wikipedia user Grin](https://en.wikipedia.org/wiki/Shepard_tone#/media/File:Shepard_Tones_spectrum_linear_scale.png)
+* avatar context: [HEAVEN (LUXURY = DEATH) / NEMESIS](https://soundcloud.com/user-960402011/nemesis-heaven)
 
 <!--
 **ksen0/ksen0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
