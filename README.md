@@ -7,13 +7,13 @@ _none of the below links are my own work, they are references/ideas._
 * [legibility + durability](https://logicmag.io/care/built-to-last/)
 * [critical technical practice](https://pages.gseis.ucla.edu/faculty/agre/critical.html)
 * [ultimate waste](https://recyclism.com/coresamples.html)
-* avatar credit: [wikipedia user Grin](https://en.wikipedia.org/wiki/Shepard_tone#/media/File:Shepard_Tones_spectrum_linear_scale.png)
-* avatar context: [HEAVEN (LUXURY = DEATH) / NEMESIS](https://soundcloud.com/user-960402011/nemesis-heaven)
+* [HEAVEN (LUXURY = DEATH) / NEMESIS](https://soundcloud.com/user-960402011/nemesis-heaven)
 
 ## "ksen"
 
 my parents are O.**Ksen**chenko and O.Ku**ksen**ok, so that's why I am **ksen**
 
+* [yes the pfp is a p5 sketch~](https://openprocessing.org/sketch/2883401#page-1)
 * [the book that is not a book about hormones](https://data.xnze.ro/hormones)
 * [body data research](https://data.xnze.ro)
 * [imagined tech studies](http://imaginedtech.neocities.org/)
