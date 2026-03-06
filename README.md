@@ -1,3 +1,5 @@
+All opinions are my own.
+
 ## hi
 
 _none of the below links are my own work, they are inspirations_
