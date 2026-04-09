@@ -2,7 +2,7 @@ All opinions are my own.
 
 ## hi
 
-_none of the below links are my own work, they are inspirations. You can learn more about my art/research from my [2026 CCFest keynote](https://youtu.be/tNgwUFU8Gq0?t=663)_
+_none of the below links are my own work, they are inspirations_
 
 * [algorithm =/= code](https://www.moma.org/collection/works/127553?artist_id=5403&page=1&sov_referrer=artist)
 * [code =/= text](https://en.wikipedia.org/wiki/Punched_card)
@@ -10,6 +10,8 @@ _none of the below links are my own work, they are inspirations. You can learn m
 * [critical technical practice](https://pages.gseis.ucla.edu/faculty/agre/critical.html)
 * [HEAVEN (LUXURY = DEATH) / NEMESIS](https://soundcloud.com/user-960402011/nemesis-heaven)
 * [ultimate waste](https://recyclism.com/coresamples.html)
+
+(You can learn more about my own art/research from my [2026 CCFest keynote](https://youtu.be/tNgwUFU8Gq0?t=663))
 
 ## "ksen"
 
