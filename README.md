@@ -20,7 +20,7 @@ I work on p5.js @ Proccessing Foundation:
 * [2025 trcc interview with Tim Rodebröker](https://trcc.timrodenbroeker.de/kit-kuksenok-on-p5-js-2-0/)
 
 I make my own artistic and researhc practice, which sometimes involves computeres:
-* [2026 algorithmic art](https://youtu.be/tNgwUFU8Gq0?t=663) kenote @ CCFest
+* [2026 algorithmic art](https://youtu.be/tNgwUFU8Gq0?t=663) keynote @ CCFest
 * [2023 body data](https://www.youtube.com/watch?v=GOxVOHVzAjU) @ NEME Arts Center, Cyprus
 * [2021 speculative images](https://www.youtube.com/watch?v=Xc3n5UyFhiA&t=443s) @ Scottish Public Engagement Network Annual Gathering
 
