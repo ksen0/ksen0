@@ -29,8 +29,6 @@ I have an individual/independent artistic and research practice, which sometimes
 my parents are O.**Ksen**chenko and O.Ku**ksen**ok, so that's why I am **ksen**
 
 * [yes the **pfp** is a **p5 sketch**~](https://openprocessing.org/sketch/2883401#page-1)
-* [NO EXIT (2026 talk)](https://youtu.be/tNgwUFU8Gq0?t=663)
-* [speculative images (2021 talk)](https://www.youtube.com/watch?v=Xc3n5UyFhiA&t=443s)
 * [WHAT DO YOU FEEL?](https://k0.games/howareyou/v1/)
 * [the book that is not a book about hormones](https://data.xnze.ro/hormones)
 * [body data research](https://data.xnze.ro)
