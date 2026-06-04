@@ -11,16 +11,16 @@ _none of the below links are my own work, they are inspirations_
 * [HEAVEN (LUXURY = DEATH) / NEMESIS](https://soundcloud.com/user-960402011/nemesis-heaven)
 * [ultimate waste](https://recyclism.com/coresamples.html)
 
-## watch
+## talks
 
-I work on p5.js @ Proccessing Foundation; see:
+I work on p5.js @ Proccessing Foundation:
 * [2026 Libre Graphics Meeting talk](https://libregraphicsmeeting.org/2026/program/talk_p5js-beginner-friendly-shader-programming/)
 * [2025 Coding Train livestream with Dan Shiffman](https://thecodingtrain.com/tracks/livestreams/livestreams/p5js-2.0)
 * [2025 codédex workshop co-hosted with Amy B. Woodman](https://www.youtube.com/watch?v=E2OE-FaMkag)
 * [2025 trcc interview with Tim Rodebröker](https://trcc.timrodenbroeker.de/kit-kuksenok-on-p5-js-2-0/)
 
-I make my own artistic and researhc practice, which sometimes involves computere; see:
-* [2026 algorithmic art](https://youtu.be/tNgwUFU8Gq0?t=663)) kenote @ CCFest
+I make my own artistic and researhc practice, which sometimes involves computeres:
+* [2026 algorithmic art](https://youtu.be/tNgwUFU8Gq0?t=663) kenote @ CCFest
 * [2023 body data](https://www.youtube.com/watch?v=GOxVOHVzAjU) @ NEME Arts Center, Cyprus
 * [2021 speculative images](https://www.youtube.com/watch?v=Xc3n5UyFhiA&t=443s) @ Scottish Public Engagement Network Annual Gathering
 
