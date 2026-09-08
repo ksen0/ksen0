@@ -2,7 +2,7 @@ All opinions are my own.
 
 ## hi
 
-_none of the below links are my own work, they are inspirations_
+_the below links are not my work. they are inspirations_
 
 * [algorithm =/= code](https://www.moma.org/collection/works/127553?artist_id=5403&page=1&sov_referrer=artist)
 * [code =/= text](https://en.wikipedia.org/wiki/Punched_card)
